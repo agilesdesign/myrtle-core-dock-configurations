@@ -1,0 +1,20 @@
+{
+    "name": "agilesdesign/myrtle-core-dock-configurations",
+    "description": "Core Configurations Docks for Myrtle WMS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Seliga",
+            "email": "jseliga@agilesdesign.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/Myrtle/Core\Docks"
+        ],
+        "psr-4": {
+            "Myrtle\\Core\\Configurations\\": "src/Configurations"
+        }
+    }
+}
