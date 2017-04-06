@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "classmap": [
-            "src/Myrtle/Core\Docks"
+            "src/Myrtle/Core/Docks"
         ],
         "psr-4": {
             "Myrtle\\Core\\Configurations\\": "src/Configurations"
