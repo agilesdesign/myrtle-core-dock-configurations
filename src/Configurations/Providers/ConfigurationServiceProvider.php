@@ -5,7 +5,7 @@ namespace Myrtle\Core\Configurations\Providers;
 use Illuminate\Support\Facades\Event;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\ServiceProvider;
-use Myrtle\Configurations\Support\LoadConfiguration;
+use Myrtle\Core\Configurations\Support\LoadConfiguration;
 
 class ConfigurationServiceProvider extends ServiceProvider
 {
