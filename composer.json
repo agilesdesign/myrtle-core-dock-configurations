@@ -10,7 +10,7 @@
     ],
     "repositories" : [
         {"type": "vcs","url": "https://github.com/agilesdesign/myrtle-core-dock-docks.git"}
-    ]
+    ],
     "require": {
         "agilesdesign/myrtle-core-dock-docks": "dev-master"
     },
