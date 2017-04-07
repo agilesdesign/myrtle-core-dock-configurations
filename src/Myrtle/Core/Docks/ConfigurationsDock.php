@@ -3,8 +3,8 @@
 namespace Myrtle\Core\Docks;
 
 use Illuminate\Support\Facades\View;
-use Myrtle\Configurations\Policies\ConfigurationsDockPolicy;
-use Myrtle\Configurations\Providers\ConfigurationServiceProvider;
+use Myrtle\Core\Configurations\Policies\ConfigurationsDockPolicy;
+use Myrtle\Core\Configurations\Providers\ConfigurationServiceProvider;
 
 class ConfigurationsDock extends Dock
 {
